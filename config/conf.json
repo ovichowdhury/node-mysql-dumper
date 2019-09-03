@@ -1,13 +1,13 @@
 {
     "mysqlTo": {
-        "host": "localhost",
-        "database": "test1",
+        "host": "10.11.201.38",
+        "database": "logdb",
         "user": "root",
         "password": "password"
     },
     "mysqlFrom": {
         "host": "localhost",
-        "database": "test2",
+        "database": "logdb",
         "user": "root",
         "password": "password"
     },
