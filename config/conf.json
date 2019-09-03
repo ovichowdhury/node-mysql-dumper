@@ -1,0 +1,16 @@
+{
+    "mysqlTo": {
+        "host": "localhost",
+        "database": "test1",
+        "user": "root",
+        "password": "password"
+    },
+    "mysqlFrom": {
+        "host": "localhost",
+        "database": "test2",
+        "user": "root",
+        "password": "password"
+    },
+    "mysqlFromTableName": "log"
+
+}

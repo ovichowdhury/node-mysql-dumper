@@ -1,0 +1,15 @@
+{
+  "name": "log-scheduler",
+  "version": "1.0.0",
+  "description": "Mysql log schedule warehousing module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Nahid Chowdhury",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.17.1"
+  }
+}
